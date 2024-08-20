@@ -17,9 +17,9 @@ Las casas nobles gobiernan vastas regiones del reino, cada una con característi
 Las casas nobles ejercen una influencia considerable en la política del reino, siendo actores clave en la corte de Eldoria. A través de matrimonios estratégicos, alianzas, tratados y pactos, las casas tejen redes de poder que pueden garantizar la estabilidad del reino o precipitar su ruina. La habilidad para manejar estas relaciones es crucial, pues una casa aislada está destinada a caer.
 
 #### Magia y Poder Sobrenatural
-   - Muchas casas nobles han cultivado un profundo conocimiento de la magia y lo sobrenatural. A lo largo de generaciones, han adquirido artefactos poderosos, establecido pactos con entidades arcanas y dominado rituales ancestrales. Estos poderes pueden ser tanto una bendición como una maldición, y su uso puede cambiar el destino de la casa y del reino en su conjunto.
+Muchas casas nobles han cultivado un profundo conocimiento de la magia y lo sobrenatural. A lo largo de generaciones, han adquirido artefactos poderosos, establecido pactos con entidades arcanas y dominado rituales ancestrales. Estos poderes pueden ser tanto una bendición como una maldición, y su uso puede cambiar el destino de la casa y del reino en su conjunto.
 
-5. **Ambición y Legado**
+Ambición y Legado**
    - La ambición es un rasgo definitorio de las Casas Nobles. Cada una tiene objetivos que van más allá de la mera supervivencia: expandir su territorio, asegurar su linaje, o ascender al trono de Eldoria. Estas metas impulsan a las casas a actuar, a veces de maneras que desafían la moralidad o el bien común. El legado de la casa es lo que motiva a cada generación a superar a la anterior, buscando grabar su nombre en la historia de Eldoria.
 
 ### **El Papel de una Casa Noble en la Defensa de Eldoria**

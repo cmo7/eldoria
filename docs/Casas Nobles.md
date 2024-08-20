@@ -3,7 +3,36 @@ aliases:
   - Casas Nobles
   - casas nobles
 ---
-Para crear un sistema en el que las habilidades estratégicas de las casas nobles varíen mucho más, permitiendo una mayor especialización y haciendo que cada casa tenga fortalezas y debilidades marcadas, podemos ajustar los valores de las habilidades de la siguiente manera:
+**Una Casa Noble en Eldoria: Defensores del Reino**
+
+En **"Eldoria: Defensores del Reino"**, una Casa Noble es mucho más que una dinastía de sangre real; es una fuerza central en la estructura política, militar y mágica del reino. Estas casas no solo gobiernan vastos territorios, sino que también son guardianes de las tradiciones ancestrales, protectores de sus tierras y líderes en la lucha contra las amenazas que asedian Eldoria.
+
+### **Características de una Casa Noble**
+
+1. **Linaje y Herencia**
+   - Cada Casa Noble de Eldoria posee una historia rica y venerable, con orígenes que se remontan a tiempos inmemoriales. Estas casas han forjado su poder a través de generaciones, consolidando su autoridad y legitimidad. El linaje de una casa es una fuente de orgullo y también de responsabilidad, pues cada generación debe mantener y expandir el legado que le ha sido confiado.
+
+2. **Territorios y Poder**
+   - Las casas nobles gobiernan vastas regiones del reino, cada una con características geográficas únicas, desde montañas imponentes hasta bosques místicos o fértiles llanuras. Estos territorios no solo proporcionan recursos esenciales como alimentos, minerales y riquezas, sino que también son baluartes de poder militar y estratégico. Los vasallos y habitantes de estos territorios deben lealtad a sus señores nobles, quienes a cambio les ofrecen protección y justicia.
+
+3. **Influencia y Alianzas**
+   - Las casas nobles ejercen una influencia considerable en la política del reino, siendo actores clave en la corte de Eldoria. A través de matrimonios estratégicos, alianzas, tratados y pactos, las casas tejen redes de poder que pueden garantizar la estabilidad del reino o precipitar su ruina. La habilidad para manejar estas relaciones es crucial, pues una casa aislada está destinada a caer.
+
+4. **Magia y Poder Sobrenatural**
+   - Muchas casas nobles han cultivado un profundo conocimiento de la magia y lo sobrenatural. A lo largo de generaciones, han adquirido artefactos poderosos, establecido pactos con entidades arcanas y dominado rituales ancestrales. Estos poderes pueden ser tanto una bendición como una maldición, y su uso puede cambiar el destino de la casa y del reino en su conjunto.
+
+5. **Ambición y Legado**
+   - La ambición es un rasgo definitorio de las Casas Nobles. Cada una tiene objetivos que van más allá de la mera supervivencia: expandir su territorio, asegurar su linaje, o ascender al trono de Eldoria. Estas metas impulsan a las casas a actuar, a veces de maneras que desafían la moralidad o el bien común. El legado de la casa es lo que motiva a cada generación a superar a la anterior, buscando grabar su nombre en la historia de Eldoria.
+
+### **El Papel de una Casa Noble en la Defensa de Eldoria**
+
+En "Eldoria: Defensores del Reino", las casas nobles no solo están preocupadas por sus propios intereses, sino que también tienen la responsabilidad de proteger el reino contra fuerzas oscuras y enemigos externos. Cada decisión tomada por una casa noble tiene el potencial de alterar el curso de la historia, no solo para ellos, sino para todo Eldoria.
+
+- **Guardianas del Reino:** Las casas nobles son las primeras y últimas líneas de defensa contra las amenazas que buscan destruir Eldoria. Ya sea mediante la construcción de fortificaciones impenetrables, la forja de alianzas con otras facciones, o el uso de poderes arcanos, estas casas son fundamentales para la supervivencia del reino.
+
+- **Balanzas del Poder:** El equilibrio entre las casas nobles es delicado. Mientras algunas buscan unificar el reino bajo su estandarte, otras trabajan en las sombras para debilitar a sus rivales. Este juego de poder y política es esencial para mantener la estabilidad en Eldoria, pero también es una fuente constante de conflicto.
+
+- **Líderes de la Gente:** Las casas nobles no solo lideran a sus ejércitos, sino que también guían a sus pueblos. Son responsables del bienestar de sus vasallos y deben asegurarse de que sus territorios prosperen, incluso en tiempos de guerra. Esto les obliga a tomar decisiones difíciles, equilibrando la necesidad de proteger su herencia con la necesidad de salvar el reino.
 
 ### **Proceso de Creación de una Casa Noble con Habilidades Estratégicas Especializadas**
 

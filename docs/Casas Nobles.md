@@ -110,6 +110,8 @@ En "Eldoria: Defensores del Reino", las casas nobles no solo están preocupadas 
    - No olvides encajar tu dibujo con los bordes del territorio.
 ### **Ejemplo de Creación de una Casa Noble**
 
+![[Valdir.png]]
+
 **Nombre de la Casa:** **Casa Valdir**  
 **Lema (Aspecto de Identidad):** **"Forjados en Fuego y Sangre"**  
 **Historia Breve:** La Casa Valdir es conocida por su dominio en la guerra y su capacidad para movilizar recursos rápidamente. Situada en las montañas del norte, su territorio es difícil de invadir y su riqueza proviene de minas de oro y hierro. Sin embargo, su falta de diplomacia y magia los hace vulnerables a la política y a las amenazas sobrenaturales.

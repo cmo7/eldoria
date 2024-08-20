@@ -1,3 +1,13 @@
+En las tierras de Eldoria, la paz es un bien preciado, siempre acechado por fuerzas oscuras que desean quebrantarla. En cada generación, surge un adversario, una figura envuelta en sombras y misterio, cuyo poder y ambición amenazan con consumir el reino. Este enemigo no es un mero villano, sino una encarnación del caos, la corrupción, o la venganza, cuyo propósito es arrasar con todo lo que Eldoria representa.
+
+El Adversario es el centro del conflicto, el catalizador de la desesperación y la fuerza que une o divide a las casas nobles en su lucha por la supervivencia. Su nombre es pronunciado con temor, sus títulos son recordatorios de los horrores que han traído, y sus motivaciones son un reflejo de los oscuros secretos que yacen enterrados en la historia de Eldoria.
+
+Para enfrentarlo, los defensores del reino deben comprender su origen, descubrir sus tácticas, y desvelar la debilidad que puede ser su perdición. El Adversario no es solo un enemigo físico; es una amenaza que permea todos los aspectos de la vida en Eldoria, capaz de corromper lo puro, destruir lo sagrado, y manipular lo que parece inquebrantable.
+
+A través de estas tablas, podrás dar vida a un adversario que pondrá a prueba el coraje, la inteligencia, y la voluntad de tus jugadores. Cada combinación de nombre, título, origen y motivación crea un villano único, diseñado para desafiar a los héroes de Eldoria en su lucha por preservar la luz en un mundo cada vez más oscuro.
+
+¿Quién es esta sombra que se cierne sobre Eldoria? ¿Qué oscuros designios le mueven? Y lo más importante: ¿Podrán los defensores del reino descubrir su debilidad antes de que sea demasiado tarde?
+
 Aquí tienes un conjunto de tablas organizadas en matrices, donde cada casilla representa una combinación específica de resultados al lanzar dos dados de 6 caras (2d6). Esto asegura que cada opción tiene la misma probabilidad de ser seleccionada. Puedes utilizar estas tablas para definir al adversario en **"Eldoria: Defensores del Reino"**.
 
 ### **Tabla 1: Nombre del Adversario**

@@ -106,7 +106,8 @@ En "Eldoria: Defensores del Reino", las casas nobles no solo están preocupadas 
    - **Definir un Objetivo de Campaña:** Cada casa debe tener un objetivo a largo plazo que guíe sus acciones durante la campaña. Este objetivo debe estar alineado con su aspecto de ambición y puede ser algo que persiguen abiertamente o en secreto.
 
 #### **7. Dibujar el Territorio**
-   - **ente o en secreto.
+   - Selecciona uno de los territorios de [[Eldoria]] y dibuja los dominios de tu casa. Incluye poblaciones, fuentes de recursos naturales, accidentes geográficos, etc.
+   - No olvides 
 ### **Ejemplo de Creación de una Casa Noble**
 
 **Nombre de la Casa:** **Casa Valdir**  

@@ -107,7 +107,7 @@ En "Eldoria: Defensores del Reino", las casas nobles no solo están preocupadas 
 
 #### **7. Dibujar el Territorio**
    - Selecciona uno de los territorios de [[Eldoria]] y dibuja los dominios de tu casa. Incluye poblaciones, fuentes de recursos naturales, accidentes geográficos, etc.
-   - No olvides 
+   - No olvides encajar tu dibujo con los bordes del territorio.
 ### **Ejemplo de Creación de una Casa Noble**
 
 **Nombre de la Casa:** **Casa Valdir**  

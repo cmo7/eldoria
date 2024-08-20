@@ -1,7 +1,5 @@
 ---
-aliases:
-  - Casas Nobles
-  - casas nobles
+aliases: [Casas Nobles, casas nobles]
 ---
 **Una Casa Noble en Eldoria: Defensores del Reino**
 
@@ -9,16 +7,16 @@ En **"Eldoria: Defensores del Reino"**, una Casa Noble es mucho más que una din
 
 ### **Características de una Casa Noble**
 
-1. **Linaje y Herencia**
-   - Cada Casa Noble de Eldoria posee una historia rica y venerable, con orígenes que se remontan a tiempos inmemoriales. Estas casas han forjado su poder a través de generaciones, consolidando su autoridad y legitimidad. El linaje de una casa es una fuente de orgullo y también de responsabilidad, pues cada generación debe mantener y expandir el legado que le ha sido confiado.
+#### Linaje y Herencia
+Cada Casa Noble de Eldoria posee una historia rica y venerable, con orígenes que se remontan a tiempos inmemoriales. Estas casas han forjado su poder a través de generaciones, consolidando su autoridad y legitimidad. El linaje de una casa es una fuente de orgullo y también de responsabilidad, pues cada generación debe mantener y expandir el legado que le ha sido confiado.
 
-2. **Territorios y Poder**
-   - Las casas nobles gobiernan vastas regiones del reino, cada una con características geográficas únicas, desde montañas imponentes hasta bosques místicos o fértiles llanuras. Estos territorios no solo proporcionan recursos esenciales como alimentos, minerales y riquezas, sino que también son baluartes de poder militar y estratégico. Los vasallos y habitantes de estos territorios deben lealtad a sus señores nobles, quienes a cambio les ofrecen protección y justicia.
+#### Territorios y Pode
+Las casas nobles gobiernan vastas regiones del reino, cada una con características geográficas únicas, desde montañas imponentes hasta bosques místicos o fértiles llanuras. Estos territorios no solo proporcionan recursos esenciales como alimentos, minerales y riquezas, sino que también son baluartes de poder militar y estratégico. Los vasallos y habitantes de estos territorios deben lealtad a sus señores nobles, quienes a cambio les ofrecen protección y justicia.
 
-3. **Influencia y Alianzas**
-   - Las casas nobles ejercen una influencia considerable en la política del reino, siendo actores clave en la corte de Eldoria. A través de matrimonios estratégicos, alianzas, tratados y pactos, las casas tejen redes de poder que pueden garantizar la estabilidad del reino o precipitar su ruina. La habilidad para manejar estas relaciones es crucial, pues una casa aislada está destinada a caer.
+#### Influencia y Alianzas
+Las casas nobles ejercen una influencia considerable en la política del reino, siendo actores clave en la corte de Eldoria. A través de matrimonios estratégicos, alianzas, tratados y pactos, las casas tejen redes de poder que pueden garantizar la estabilidad del reino o precipitar su ruina. La habilidad para manejar estas relaciones es crucial, pues una casa aislada está destinada a caer.
 
-4. **Magia y Poder Sobrenatural**
+#### Magia y Poder Sobrenatural
    - Muchas casas nobles han cultivado un profundo conocimiento de la magia y lo sobrenatural. A lo largo de generaciones, han adquirido artefactos poderosos, establecido pactos con entidades arcanas y dominado rituales ancestrales. Estos poderes pueden ser tanto una bendición como una maldición, y su uso puede cambiar el destino de la casa y del reino en su conjunto.
 
 5. **Ambición y Legado**

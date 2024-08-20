@@ -1,6 +1,6 @@
 En **"Eldoria: Defensores del Reino"**, te sumergirás en un reino al borde de la destrucción, donde las antiguas casas nobles deben dejar de lado sus rivalidades y forjar alianzas para defender la tierra que han jurado proteger. [[Eldoria]], una nación próspera, ahora enfrenta su mayor amenaza: un enemigo oscuro y misterioso que busca devastar todo lo que sus habitantes han construido durante siglos. 
 
-Los jugadores asumen el papel de líderes de [[casas nobles]], cada una con su propia historia, poderes sobrenaturales y ambiciones ocultas. A través de decisiones estratégicas, misiones peligrosas y diplomacia tensa, deberán unir fuerzas para resistir el avance de la oscuridad. ¿Será suficiente la unión de las casas para salvar [[Eldoria]], o caerá el reino en el caos debido a traiciones y ambiciones desmedidas?
+Los jugadores asumen el papel de líderes de [[Casas Nobles]], cada una con su propia historia, poderes sobrenaturales y ambiciones ocultas. A través de decisiones estratégicas, misiones peligrosas y diplomacia tensa, deberán unir fuerzas para resistir el avance de la oscuridad. ¿Será suficiente la unión de las casas para salvar [[Eldoria]], o caerá el reino en el caos debido a traiciones y ambiciones desmedidas?
 
 **Características principales:**
 

@@ -38,7 +38,7 @@ En "Eldoria: Defensores del Reino", las casas nobles no solo están preocupadas 
    - **Nombre de la Casa:** Elige un nombre que refleje la historia, carácter y legado de la Casa Noble.
    - **Lema (Aspecto):** El lema de la casa es un aspecto clave que define su filosofía o misión. Este lema puede ser invocado en situaciones que reflejen los valores o metas de la casa.
    - **Historia Breve:** Escribe una breve historia de la casa, incluyendo su origen, momentos clave, y su situación actual en Eldoria.
-   - **Emblema**: Dibuja un emblema de tu casa nobo
+   - **Emblema**: Dibuja un emblema de tu casa noble
 
 #### **2. Aspectos de la Casa**
    Los aspectos capturan la esencia de la Casa Noble y permiten invocar sus fortalezas o enfrentar sus debilidades.

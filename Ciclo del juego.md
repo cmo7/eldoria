@@ -10,4 +10,6 @@
 	4. Acciones estratégicas.
 	5. Resolución del año.
 5. Año 5
-	1. Asalto final
+	1. Asalto final del adversario
+	2. Resolución de un reto por cada habilidad estratégica
+	3. Resolucioń

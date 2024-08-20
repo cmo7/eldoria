@@ -12,4 +12,4 @@
 5. Año 5
 	1. Asalto final del adversario
 	2. Resolución de un reto por cada habilidad estratégica
-	3. Resolucioń
+	3. Resolución de las historias d

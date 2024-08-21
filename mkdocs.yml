@@ -1,7 +1,7 @@
 site_name: "Eldoria : Defensores del Reino"
 
 theme:
-    name: torillic
+    name: 'torillic'
     custom_dir: ./mkdocs_torillic
     palette:
 

@@ -1,4 +1,5 @@
 site_name: Eldoria: Defensores del Reino
+
 theme:
   name: mkdocs
   locale: es

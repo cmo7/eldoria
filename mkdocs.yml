@@ -4,6 +4,9 @@ theme:
     name: 'material'
     palette:
 
+    icon:
+      logo: fontawesome/solid/horse
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default

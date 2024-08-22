@@ -1,10 +1,4 @@
-### Razón para el Formato del Índice
 
-El índice de un manual de juego de rol es fundamental para que los jugadores y directores de juego puedan acceder rápidamente a la información relevante durante el juego. Dado que "Defensores de Eldoria" es un juego que utiliza el sistema **Forged in the Dark**, es importante que el índice sea intuitivo, jerárquico y que agrupe la información en secciones lógicas. Esto facilita tanto la creación y gestión de las casas nobles como la defensa de Eldoria.
-
-El índice debe comenzar con una introducción al mundo y el sistema, seguido por secciones que detallen la creación de personajes y casas, las mecánicas de juego, y finalmente una sección dedicada a los recursos y guías para el director de juego. De este modo, se asegura que los jugadores nuevos pueden encontrar fácilmente las secciones de inicio, mientras que los jugadores experimentados pueden acceder rápidamente a las mecánicas avanzadas y recursos.
-
-### Índice Propuesto para el Manual de "Defensores de Eldoria"
 
 1. **Introducción**
    - Bienvenida a Eldoria

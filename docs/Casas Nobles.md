@@ -1,6 +1,8 @@
 ---
 aliases: [Casas Nobles, casas nobles]
 ---
+![[4F2521B9-2AB7-49C4-A425-97E6FEEBBE9E.webp]]
+
 **Una Casa Noble en Eldoria: Defensores del Reino**
 
 En **"Eldoria: Defensores del Reino"**, una Casa Noble es mucho más que una dinastía de sangre real; es una fuerza central en la estructura política, militar y mágica del reino. Estas casas no solo gobiernan vastos territorios, sino que también son guardianes de las tradiciones ancestrales, protectores de sus tierras y líderes en la lucha contra las amenazas que asedian Eldoria.
@@ -23,6 +25,8 @@ Muchas casas nobles han cultivado un profundo conocimiento de la magia y lo sobr
 La ambición es un rasgo definitorio de las Casas Nobles. Cada una tiene objetivos que van más allá de la mera supervivencia: expandir su territorio, asegurar su linaje, o ascender al trono de Eldoria. Estas metas impulsan a las casas a actuar, a veces de maneras que desafían la moralidad o el bien común. El legado de la casa es lo que motiva a cada generación a superar a la anterior, buscando grabar su nombre en la historia de Eldoria.
 
 ### **El Papel de una Casa Noble en la Defensa de Eldoria**
+
+![[F1BE3332-6F0B-4F87-BD33-E9A99861F3A7.webp]]
 
 En "Eldoria: Defensores del Reino", las casas nobles no solo están preocupadas por sus propios intereses, sino que también tienen la responsabilidad de proteger el reino contra fuerzas oscuras y enemigos externos. Cada decisión tomada por una casa noble tiene el potencial de alterar el curso de la historia, no solo para ellos, sino para todo Eldoria.
 

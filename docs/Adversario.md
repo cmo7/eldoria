@@ -102,3 +102,5 @@ Usando estas tablas, aquí tienes un ejemplo de un adversario generado:
 ### **Cómo Usar Estas Tablas**
 
 Lanza dos dados de 6 caras (2d6) para cada tabla y usa las combinaciones obtenidas para crear un enemigo único y desafiante que encaje perfectamente en la narrativa de **Eldoria: Defensores del Reino**. Cada tirada te da la oportunidad de generar una historia y un adversario diferente, asegurando que cada campaña sea única y memorable.
+
+Esto es un test

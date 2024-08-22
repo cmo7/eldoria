@@ -1,3 +1,4 @@
+![[A2D8F47D-137B-4F7D-803F-ADAE22F03FD9.webp]]
 En las tierras de Eldoria, la paz es un bien preciado, siempre acechado por fuerzas oscuras que desean quebrantarla. En cada generación, surge un adversario, una figura envuelta en sombras y misterio, cuyo poder y ambición amenazan con consumir el reino. Este enemigo no es un mero villano, sino una encarnación del caos, la corrupción, o la venganza, cuyo propósito es arrasar con todo lo que Eldoria representa.
 
 El Adversario es el centro del conflicto, el catalizador de la desesperación y la fuerza que une o divide a las casas nobles en su lucha por la supervivencia. Su nombre es pronunciado con temor, sus títulos son recordatorios de los horrores que ha traído, y sus motivaciones son un reflejo de los oscuros secretos que yacen enterrados en la historia de Eldoria.
